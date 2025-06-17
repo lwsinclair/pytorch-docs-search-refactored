@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/seanmichaelmcgee-pytorch-docs-search-refactored-badge.png)](https://mseep.ai/app/seanmichaelmcgee-pytorch-docs-search-refactored)
+
 # PyTorch Documentation Search Tool
 
 A streamlined semantic search system for PyTorch documentation that understands both code and text, providing relevant results for technical queries.
